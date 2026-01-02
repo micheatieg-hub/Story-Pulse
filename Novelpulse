@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Novel Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background: #ffffff;
+      color: #222;
+      line-height: 2;
+      padding: 16px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 30px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 6px;
+    }
+
+    p {
+      font-size: 17px;
+      text-align: justify;
+      margin: 16px 0;
+    }
+
+    .notice {
+      background: #f0f0f0;
+      padding: 12px;
+      text-align: center;
+      font-size: 14px;
+      border-radius: 6px;
+      margin-bottom: 20px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 6px;
+      margin: 20px 0;
+    }
+
+    .chapter-link {
+      display: block;
+      padding: 12px;
+      background: #f9f9f9;
+      margin: 8px 0;
+      text-decoration: none;
+      color: #000;
+      border-radius: 5px;
+      border: 1px solid #ddd;
+    }
+
+    .back {
+      display: block;
+      text-align: center;
+      margin: 40px 0;
+      padding: 12px;
+      background: #333;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    .offer-button {
+      display: block;
+      width: 80%;
+      margin: 20px auto;
+      padding: 16px 0;
+      background: #28a745;
+      color: white;
+      font-size: 18px;
+      text-decoration: none;
+      border-radius: 6px;
+      text-align: center;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 13px;
+      text-align: center;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+
+<a id="top"></a>
+
+<h1>📚 Daily Novel Library</h1>
+
+<div class="notice">
+  📖 New novels and chapters are added <b>daily</b><br>
+  🔔 Enable notifications for updates
+</div>
+
+<img src="https://images.unsplash.com/photo-1519681393784-d120267933ba" alt="Novel cover">
+
+<!-- KIWI SPONSORED OFFER BUTTON AT THE TOP -->
+<a class="offer-button"
+   href="https://www.kiwiwall.com/wall/xy79eqod9ovejqn1iwexbt5015310zie/YOUR_ID"
+   target="_blank">
+   🎁 Sponsored Offer
+</a>
+<div class="notice">
+  ⚠️ Sponsored offers are provided by a third party. We are not responsible for payments.
+</div>
+
+<h2>Chapters</h2>
+<a class="chapter-link" href="#chapter1">Chapter 1 – The Beginning</a>
+<a class="chapter-link" href="#chapter2">Chapter 2 – The Awakening</a>
+<a class="chapter-link" href="#chapter3">Chapter 3 – Secrets Revealed</a>
+<a class="chapter-link" href="#end">📘 End of the Novel</a>
+
+<!-- ================= CHAPTER 1 ================= -->
+<h2 id="chapter1">Chapter 1 – The Beginning</h2>
+
+<p>The night was unusually quiet, as though the world itself was holding its breath.</p>
+<p>Streetlights flickered weakly, casting shadows that stretched far beyond their limits.</p>
+<p>She walked alone, her thoughts tangled in memories she had tried to bury.</p>
+<p>Every sound felt louder, every movement heavier than before.</p>
+<p>The wind whispered secrets she could not yet understand.</p>
+<p>Somewhere far away, a clock struck midnight.</p>
+<p>Her heart raced as she sensed something unseen watching her.</p>
+<p>This was the night everything would change.</p>
+<p>The beginning is often silent, unnoticed.</p>
+
+<a class="back" href="#top">⬅ Back to Chapters</a>
+
+<!-- ================= CHAPTER 2 ================= -->
+<h2 id="chapter2">Chapter 2 – The Awakening</h2>
+
+<p>Morning arrived wrapped in pale sunlight.</p>
+<p>She awoke with a strange heaviness in her chest.</p>
+<p>Dreams clung to her thoughts — voices, symbols, a name.</p>
+<p>The world outside continued, unaware.</p>
+<p>Every reflection looked unfamiliar.</p>
+<p>She tried to ignore the feeling, but failed.</p>
+<p>The awakening was slow and unavoidable.</p>
+<p>Something ancient stirred inside her.</p>
+<p>The truth could no longer be denied.</p>
+
+<a class="back" href="#top">⬅ Back to Chapters</a>
+
+<!-- ================= CHAPTER 3 ================= -->
+<h2 id="chapter3">Chapter 3 – Secrets Revealed</h2>
+
+<p>The truth revealed itself piece by piece.</p>
+<p>Old books, sealed rooms, and whispered warnings.</p>
+<p>Every answer created more questions.</p>
+<p>She learned that secrets survive through fear.</p>
+<p>Those before her had chosen silence.</p>
+<p>Knowledge carried a heavy cost.</p>
+<p>She was no longer alone.</p>
+<p>The path ahead was dangerous.</p>
+<p>But it was clear.</p>
+
+<a class="back" href="#top">⬅ Back to Chapters</a>
+
+<!-- ================= END OF NOVEL ================= -->
+<h2 id="end">The End</h2>
+
+<p>The journey had reached its conclusion.</p>
+<p>Every fear that once ruled her had faded.</p>
+<p>She understood now what strength truly meant.</p>
+<p>The past no longer controlled her future.</p>
+<p>The sun rose gently over a changed world.</p>
+<p>This ending was also a beginning.</p>
+<p><b>Thank you for reading.</b></p>
+
+<a class="back" href="#top">⬅ Back to Chapters</a>
+
+<div class="footer">
+  © Daily Novel App<br>
+  New chapters added daily
+</div>
+
+</body>
+</html>
